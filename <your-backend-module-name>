@@ -1,0 +1,4 @@
+    Jun 18, 2014 4:07:30 PM com.google.appengine.tools.development.AbstractModule startup
+    INFO: The admin console is running at http://localhost:8080/_ah/admin
+    Jun 18, 2014 4:07:30 PM com.google.appengine.tools.development.DevAppServerImpl doStart
+    INFO: Dev App Server is now running
